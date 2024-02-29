@@ -3,15 +3,15 @@
 ## Tech Stack
 steveny2k/UserLAnd is built on the following main stack:
 
+- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- [Java](https://www.java.com) – Languages
+- [Kotlin](https://kotlinlang.org/) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
 - [CircleCI](https://circleci.com/) – Continuous Integration
 - [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Java](https://www.java.com) – Languages
-- [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
-- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - [Mockito](https://site.mockito.org/) – Testing Frameworks
 - [fastlane](https://fastlane.tools/) – Mobile Continuous Integration
-- [Kotlin](https://kotlinlang.org/) – Languages
 - [Android OS](https://www.android.com) – Operating Systems
 
 Full tech stack [here](/techstack.md)
@@ -22,15 +22,15 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 steveny2k/UserLAnd is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg' alt='Mockito'/> [Mockito](https://site.mockito.org/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2383/11098337.png' alt='fastlane'/> [fastlane](https://fastlane.tools/) – Mobile Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
 
 Full tech stack [here](/techstack.md)
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [steveny2k/UserLAnd](https://github.com/steveny2k/UserLAnd)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|13<br/>Tools used|01/05/24 <br/>Report generated|
+|13<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -169,7 +169,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[activesupport](https://rubygems.org/activesupport)|v6.0.2|06/17/19|Matthew Tighe |MIT|[CVE-2020-8165](https://github.com/advisories/GHSA-2p68-f74v-9wc6) (Critical)<br/>[CVE-2023-28120](https://github.com/advisories/GHSA-pj73-v5mw-pm9j) (Moderate)<br/>[CVE-2023-22796](https://github.com/advisories/GHSA-j6gc-792m-qgm2) (Low)<br/>[CVE-2023-38037](https://github.com/advisories/GHSA-cr5q-6q9f-rq6q) (Low)|
+|[activesupport](https://rubygems.org/activesupport)|v6.0.2|06/17/19|Matthew Tighe |MIT|[CVE-2020-8165](https://github.com/advisories/GHSA-2p68-f74v-9wc6) (Critical)<br/>[CVE-2023-28120](https://github.com/advisories/GHSA-pj73-v5mw-pm9j) (Moderate)<br/>[CVE-2023-38037](https://github.com/advisories/GHSA-cr5q-6q9f-rq6q) (Low)<br/>[CVE-2023-22796](https://github.com/advisories/GHSA-j6gc-792m-qgm2) (Low)|
 
 <br/>
 <div align='center'>
