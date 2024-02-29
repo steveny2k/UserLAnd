@@ -2,7 +2,7 @@ repo_name: steveny2k/UserLAnd
 report_id: 31a9d6076d829ab7de91324d6854071e
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:55:25+00:00'
+timestamp: '2024-02-29T18:34:16+00:00'
 requested_by: corbinlc
 provider: github
 branch: master
@@ -180,15 +180,15 @@ tools:
     detected_date: Mar 16
     severity: moderate
     first_patched: 6.1.7.3
-  - name: ReDoS based DoS vulnerability in Active Support's underscore
-    cve_id: CVE-2023-22796
-    cve_url: https://github.com/advisories/GHSA-j6gc-792m-qgm2
-    detected_date: Jan 19
-    severity: low
-    first_patched: 6.1.7.1
   - name: Active Support Possibly Discloses Locally Encrypted Files
     cve_id: CVE-2023-38037
     cve_url: https://github.com/advisories/GHSA-cr5q-6q9f-rq6q
     detected_date: Aug 24
     severity: low
     first_patched: 6.1.7.5
+  - name: ReDoS based DoS vulnerability in Active Support's underscore
+    cve_id: CVE-2023-22796
+    cve_url: https://github.com/advisories/GHSA-j6gc-792m-qgm2
+    detected_date: Jan 19
+    severity: low
+    first_patched: 6.1.7.1
